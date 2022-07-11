@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nighthawk0003
-- 👀 I’m interested in machine learning on IT, amazon aws, computer vision.
+- 👀 I’m interested in IT, machine learning, amazon aws, computer vision.
 - 🌱 I’m currently learning how to make apps using aws.
 - 💞️ I’m looking to collaborate on IT projects!!
 - 📫 How to reach me: visit www.redmoonsys.com
